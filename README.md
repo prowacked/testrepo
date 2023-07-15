@@ -1,4 +1,4 @@
 # testrepo
 
 ## editing this repo
-it's a markdown file in this repo!
+It's a markdown file in this repository.
